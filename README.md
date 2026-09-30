@@ -1,12 +1,14 @@
 <div align="center">
 
-# Matheus Ferreira Oliveira
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=220&section=header&text=Matheus%20Ferreira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Java%20Backend&descAlignY=58&descSize=18"/>
 
-### Estudante de Engenharia de Software • Desenvolvedor em formação
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Backend+com+Java;Construindo+projetos+evoluindo+todos+os+dias;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2500&pause=700&color=2563EB&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+in+progress;Building+projects+%7C+Learning+every+day;Turning+ideas+into+code.)](https://git.io/typing-svg)
 
 </div>
+
+<br>
 
 ---
 
@@ -49,6 +51,7 @@ Java • Spring Boot • APIs REST • PostgreSQL • Git
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-theus&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
+<br>
 
 ---
 
@@ -59,7 +62,7 @@ Java • Spring Boot • APIs REST • PostgreSQL • Git
 [![GitHub Streak](https://streak-stats.demolab.com?user=oliveira-theus&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
+<br>
 ---
 
 ## Contato
@@ -80,6 +83,5 @@ Java • Spring Boot • APIs REST • PostgreSQL • Git
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=oliveira-theus&color=grey&style=flat-square)
 
 </div>
