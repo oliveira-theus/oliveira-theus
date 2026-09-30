@@ -46,9 +46,10 @@ Java • Spring Boot • APIs REST • PostgreSQL • Git
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveira-theus&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-theus&layout=compact&hide_border=true&theme=transparent"/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveira-theus&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-theus&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
 </div>
 <br>
