@@ -1,88 +1,29 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=220&section=header&text=Matheus%20Ferreira&fontSize=52&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Developer&descSize=20&descColor=334155&descAlignY=58" width="100%" alt="Header" /> <a href="https://github.com/oliveira-theus"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0969DA&center=true&vCenter=true&random=false&width=700&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Matheus;Estudante+de+Engenharia+de+Software;Desenvolvedor+Backend+com+Java+%26+Spring;Construindo+APIs+robustas+e+escal%C3%A1veis;Apaixonado+por+c%C3%B3digo+limpo+e+resolver+problemas" alt="Typing SVG" /> </a> <br/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=220&section=header&text=Matheus%20Ferreira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Java%20Backend&descAlignY=58&descSize=18"/>
+<br/><br/>
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2500&pause=700&color=2563EB&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+in+progress;Building+projects+%7C+Learning+every+day;Turning+ideas+into+code.)](https://git.io/typing-svg)
+<a href="https://linkedin.com/in/matheus-ferreiraas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:Mtholiveira65@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
+Sobre mim
+Cursando Engenharia de Software
+Focado em desenvolvimento Backend com Java e Spring
+Modelagem e consultas em SQL
+Sempre aprendendo, construindo projetos e evoluindo na prática
+Aberto a oportunidades, estágios e networking
+Tecnologias que eu uso no meu dia a dia
 
-<br>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,github&theme=light" alt="Skills" /> </div>
 
----
+## Estatísticas do GitHub
 
-## Sobre mim
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=oliveira-theus&show_icons=true&hide_border=false&border_color=D0D7DE&border_radius=10&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-theus&layout=compact&hide_border=false&border_color=D0D7DE&border_radius=10&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" /> <br/> <img src="https://streak-stats.demolab.com?user=oliveira-theus&theme=default&border_radius=10&stroke=D0D7DE&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" /> <br/>  </div>
 
-Estudante de Engenharia de Software com foco em desenvolvimento
-Backend.
-
-Atualmente venho aprofundando meus conhecimentos em Java,
-Spring Boot e PostgreSQL, enquanto continuo desenvolvendo
-minhas bases em desenvolvimento Web.
-
-Gosto de aprender colocando a mão no código e transformar
-ideias em projetos funcionais.
-
----
-
-## Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,postgresql,git,github" />
-</p>
-
----
-
-## Atualmente estudando
-
-<p align="center">
-
-Java • Spring Boot • APIs REST • PostgreSQL • Git
-
-</p>
-
----
-
+## Contato 
 <div align="center">
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveira-theus&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-theus&layout=compact&theme=dark&hide_border=true"/>
-</p>
+<a href="https://linkedin.com/in/matheus-ferreiraas"><img src="https://img.shields.io/badge/LinkedIn-matheus--ferreiraas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:Mtholiveira65@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mtholiveira65@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-</div>
-<br>
+<br/><br/>
 
----
-
-## Atividade
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=oliveira-theus&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-<br>
----
-
-## Contato
-
-<p align="center">
-
-<a href="mailto:mtholiveira65@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/matheus-ferreiraas/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=100&section=footer" width="100%" alt="Footer" /> </div>
