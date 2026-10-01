@@ -2,16 +2,19 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/matheus-ferreiraas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:Mtholiveira65@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
-Sobre mim
+
+## Sobre mim
+
 Cursando Engenharia de Software
 Focado em desenvolvimento Backend com Java e Spring
 Modelagem e consultas em SQL
 Sempre aprendendo, construindo projetos e evoluindo na prática
-Aberto a oportunidades, estágios e networking
-Tecnologias que eu uso no meu dia a dia
+Aberto a oportunidades, estágios e networking.
+
+## Tecnologias
+
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,github&theme=light" alt="Skills" /> </div>
 
